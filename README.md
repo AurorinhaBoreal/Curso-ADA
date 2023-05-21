@@ -6,3 +6,6 @@
 * comando push, o que faz? onde vive? do que se alimenta? Descobriremos isso e muito mais, na próxima aula do curso!
 
 * Eu sou uma pessoa muito sapeca e vim ajudar a testar o comando pull, tururulalala :D
+
+* Eu sou uma terceira pessoa muito sapeca e vim ajudar a testar outro comando!
+* Esse se chama fetch, a protagonista de Infamous First Light ;D
